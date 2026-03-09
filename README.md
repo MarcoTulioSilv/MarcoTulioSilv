@@ -1,6 +1,6 @@
 ### Hi there 👋
--Sou discente do curso de Ciencia da Computação na UFJ- Universidade Federal de Jataí 
-,ainda não tenho uma area de interesse definida, estou explorando este novo mundo.
+-Sou discente do curso de Ciencia da Computação na UFJ- Universidade Federal de Jataí.
+-Tenho Interesse pela área de Dados como um todo.
 <!--
 **MarcoTulioSilv/MarcoTulioSilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
