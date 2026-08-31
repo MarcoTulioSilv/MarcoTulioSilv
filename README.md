@@ -62,8 +62,8 @@ Sistema desktop arquitetado e desenvolvido do zero para resolver o rastreio de i
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcoTulioSilv&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub de Marco Túlio"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTulioSilv&layout=compact&hide_border=true" alt="Linguagens mais usadas"/>
+  <img height="165" src="https://github-readme-stats-marco-tulio3.vercel.app/api?username=MarcoTulioSilv&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub de Marco Túlio"/>
+  <img height="165" src="https://github-readme-stats-marco-tulio3.vercel.app/api/top-langs/?username=MarcoTulioSilv&layout=compact&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
 
 ---
